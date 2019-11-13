@@ -44,4 +44,4 @@ After file has been uploaded the script prints direct download url.
   >Everything done... Exiting!  
 
 # Credits
-### kshcherban for his lovely work [here](https://github.com/kshcherban/gdrive_uploader)
+### kshcherban for his lovely work [here](https://github.com/TechSuperHit/)
